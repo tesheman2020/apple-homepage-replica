@@ -25,3 +25,5 @@ This project focuses on responsive layout, clean UI structure, and modern web de
 - Cross-device compatibility
 
 ## 📁 Project Structure
+## 🔗 Live Demo
+https://aquamarine-lily-7165a8.netlify.app
